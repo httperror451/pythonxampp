@@ -51,7 +51,7 @@ as well edit line :
 
 
 >>>restart apache/xampp
-1.add this line in .py file at bottom:
+1.add this line in .py file at top:
 >>>#! /usr/bin/python3
 >>>print("Content-Type: text/html\n")
 
