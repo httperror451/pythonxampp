@@ -51,9 +51,10 @@ as well edit line :
 
 
 >>>restart apache/xampp
-1.add this line in .py file at top:
->>>#! /usr/bin/python3
->>>print("Content-Type: text/html\n")
+1.add this lines in .py file at top:
+>>>
+#! /usr/bin/python3
+print("Content-Type: text/html\n")
 
 
 2.open http://localhost/PythonProject\test.py
