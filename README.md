@@ -1,6 +1,6 @@
 https://stackoverflow.com/questions/42704846/running-python-scripts-with-xampp
 
-#Windows:
+##Windows:
 
 
 Run Python in xampp for windows:
